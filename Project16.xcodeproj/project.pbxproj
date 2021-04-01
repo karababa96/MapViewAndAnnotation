@@ -13,6 +13,7 @@
 		4EC017632615DC1B004082F8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4EC017612615DC1B004082F8 /* Main.storyboard */; };
 		4EC017652615DC1D004082F8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4EC017642615DC1D004082F8 /* Assets.xcassets */; };
 		4EC017682615DC1D004082F8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4EC017662615DC1D004082F8 /* LaunchScreen.storyboard */; };
+		4EC017712615E04E004082F8 /* Capital.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC017702615E04E004082F8 /* Capital.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		4EC017642615DC1D004082F8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4EC017672615DC1D004082F8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4EC017692615DC1D004082F8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4EC017702615E04E004082F8 /* Capital.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Capital.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				4EC0175B2615DC1B004082F8 /* AppDelegate.swift */,
 				4EC0175D2615DC1B004082F8 /* SceneDelegate.swift */,
 				4EC0175F2615DC1B004082F8 /* ViewController.swift */,
+				4EC017702615E04E004082F8 /* Capital.swift */,
 				4EC017612615DC1B004082F8 /* Main.storyboard */,
 				4EC017642615DC1D004082F8 /* Assets.xcassets */,
 				4EC017662615DC1D004082F8 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			files = (
 				4EC017602615DC1B004082F8 /* ViewController.swift in Sources */,
 				4EC0175C2615DC1B004082F8 /* AppDelegate.swift in Sources */,
+				4EC017712615E04E004082F8 /* Capital.swift in Sources */,
 				4EC0175E2615DC1B004082F8 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
